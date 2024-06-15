@@ -251,7 +251,7 @@ class Crack:
 
 
 # --({ Start program }) -- #
-if __name__ == "__main__":
+if __c3nmrvnhxey5fr9tz772__ == "__main__":
     try:
         Crack()
     except Exception as e:
